@@ -1,4 +1,4 @@
-Brian "The Dart" Lauber
+Brian Lauber
 ======================
 
 Skills
