@@ -1,5 +1,3 @@
- * name
- * Employment history
- * skills
- * Best friends
  
+ * Employment history
+ * Best friends
