@@ -8,4 +8,5 @@ Skills
 * Gitting things done.
 * Drinking Java
 * Earning Rubies.  I mean Rupees.
+* Yelling "YOLO"
 
